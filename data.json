@@ -1,0 +1,14 @@
+{
+    "cars" : [
+        {"id":"1", "brand":"Hyundai", "model":"Grand i10", "price":"35", "featured": true },
+        {"id":"2", "brand":"Honda", "model":"Amaze", "price":"10", "featured": false},
+        {"id":"3", "brand":"Ford", "model":"EcoSport", "price":"9", "featured": true},
+        {"id":"4", "brand":"Tata", "model":"Nano", "price":"3", "featured": true},
+        {"id":"5", "brand":"Toyota", "model":"Fortuner", "price":"6", "featured": false},
+        {"id":"6", "brand":"Ford", "model":"Figo", "price":"9", "featured": false},
+        {"id":"7", "brand":"Ford", "model":"Aspire", "price":"12", "featured": false},
+        {"id":"8", "brand":"Honda", "model":"EcoSport", "price":"14", "featured": false},
+        {"id":"9", "brand":"Nissan", "model":"EcoSport", "price":"19", "featured": false},
+        {"id":"10", "brand":"Volvo", "model":"EcoSport", "price":"50", "featured": false}
+    ]
+}
